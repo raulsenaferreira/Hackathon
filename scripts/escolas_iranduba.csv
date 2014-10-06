@@ -1,0 +1,22 @@
+Ano;Região;UF;Código do Município;Município;Código da Escola;Nome da Escola;Localização;Rede;ID_LATITUDE;ID_LONGITUDE;Educação Infantil Total;Educação Infantil Creche;Educação Infantil Pré-Escola;Ensino Fundamental Total;Ensino Fundamental Anos Iniciais;Ensino Fundamental Anos Finais;Ensino Fundamental 1º Ano;Ensino Fundamental 2° ano;Ensino Fundamental 3° ano;Ensino Fundamental 4° ano;Ensino Fundamental 5° ano;Ensino Fundamental 6° ano; Ensino Fundamental 7° ano; Ensino Fundamental 8° ano;Ensino Fundamental 9° ano;Turmas Unificadas 1;Ensino Médio Total Médio;Ensino Médio 1ª série;Ensino Médio 2ª série;Ensino Médio 3ª série;Ensino Médio 4ª série;
+2012;Norte;AM;1301852;IRANDUBA;13076540;ESC URSULINA MACEDO;Rural;Municipal;-60,17770473;-3,201231442;--;--;--;8;--;--;--;--;--;--;--;--;--;--;--;8;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13079697;ESC SANTA HELENA;Rural;Municipal;-60,194411;-3,273661;--;--;--;20;--;--;--;--;--;--;--;--;--;--;--;20;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13079700;ESCOLA MUNICIPAL NOEMI SANTOS PEREIRA;Urbana;Municipal;-60,16497266;-3,216018304;20,1;14;22,2;21,4;21,4;--;21,6;26;22,5;19,4;17,3;--;--;--;--;--;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13081268;ESCOLA ESTADUAL CECILIA CARNEIRO DE OLIVEIRA;Urbana;Estadual;-60,188923;-3,280501;--;--;--;29,1;27,6;31,2;23;28,7;27,3;26,5;34,5;32,5;27;37;30,5;--;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13082469;ESC ANA BARBOSA DE CASTRO;Urbana;Municipal;-60,0835088;-3,1659989;--;--;--;31;27,3;34,7;19;28;26;32;30;41;37;26,5;34;--;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13089536;ESC MARIA IOLANDA MAURICIO VIANA;Rural;Municipal;-60,18627316;-3,273629155;16;--;16;20,5;--;--;--;--;--;--;--;--;--;--;--;20,5;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13094475;CENTRO DE EDUCACAO TECNOLOGICA DO AMAZONAS - CETAM;Urbana;Estadual;-60,156341;-3,166934;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13095773;ESC MUN PREFEITO NONATO LOPES;Urbana;Municipal;-60,086324;-3,166917;--;--;--;27,5;27,5;--;28;29;26,2;--;--;--;--;--;--;--;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13096435;ESCOLA ESTADUAL THOMAS EUGENE LOVEJOY;Rural;Estadual;-60,1750524;-3,201032191;--;--;--;7,8;--;7,8;--;--;--;--;--;8;4;8;11;--;11,7;7;20;8;--;--
+2012;Norte;AM;1301852;IRANDUBA;13096990;ESC MUN PROFESSORA SUELI DIAS DA SILVA;Rural;Municipal;-60,1777212;-3,200839373;8;--;8;22;--;--;--;--;--;--;--;--;--;--;--;22;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13097008;ESC MUN FERNANDO DAMASCENO;Rural;Municipal;-60,184705;-3,281706;19,3;18;19,7;18,5;19,4;17;21;15,5;26;19;20;17;20;14;--;--;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13097016;ESC MUN ROSECLER GUARALDI EBLING;Urbana;Municipal;-60,189727;-3,278758;20;20;19,9;26,3;26,5;25;22,8;29;30,5;30;28;25;--;--;--;--;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13097024;ESC MUN DELPHINA AZIZ;Rural;Municipal;-60,1177635;-3,292359077;--;--;--;16,9;15,3;18;--;12;16;18;15;22;14;--;--;17,7;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13102613;ESCOLA MUNICIPAL RAIO DE ESPERANCA;Rural;Municipal;-60,10313;-3,168301;7;--;7;18;--;12;--;--;--;--;--;12;--;--;--;24;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13102621;ESCOLA MUNICIPAL ARIAU;Rural;Municipal;-60,1778007;-3,2738295;15,8;--;15,8;20,3;20,4;20,2;18,5;16;16,7;28;24,5;22;22;19;17;--;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13123602;ESC MUNICIPAL INDIGENA TUPANA YPORO;Rural;Municipal;-60,17580342;-3,200828661;--;--;--;9;--;--;--;--;--;--;--;--;--;--;--;9;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13229214;CENTRO RURAL DE ENSINO COM MEDIACAO TECNOLOGICA DE IRANDUB;Rural;Estadual;-60,034988;-3,21621;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;17,2;18,3;16,4;17;--;--
+2012;Norte;AM;1301852;IRANDUBA;13303210;CENTRO EDUCACIONAL ESTRELAS DO AMANHA - APAE IRANDUBA;Urbana;Municipal;-60,20485711;-3,195109724;--;--;--;6,7;6;--;--;--;--;6;--;--;--;--;--;7;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13305255;CRECHE MUNICIPAL SANDRA BRAGA;Rural;Municipal;-60,17835353;-3,197287637;22,7;21,8;22,9;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13307339;ESC PADRE LOURENCO BENESPERI;Rural;Municipal;-60,103979;-3,169836;--;--;--;29,5;28,4;30,1;--;--;38;28,7;25,8;35,8;29,3;19,5;--;--;--;--;--;--;--;--
+2012;Norte;AM;1301852;IRANDUBA;13307355;ESC PEQUENOS ACAMPANTES;Rural;Municipal;-60,185535;-3,2828727;22,4;--;22,4;--;--;--;--;--;--;--;--;--;--;--;--;28;--;--;--;--;--;--

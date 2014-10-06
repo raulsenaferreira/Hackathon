@@ -1,0 +1,29 @@
+import simplejson, urllib           # To get posts from Twitter
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib import cm           # Colormap
+import scipy.stats                  # For kernel density estimation
+
+# Get geo-tagged posts from Twitter
+url = 'http://search.twitter.com/search?q=geotag&format=json&rpp=100'
+resp = simplejson.load(urllib.urlopen(url))
+coords = np.asarray([ t['geo']['coordinates'][::-1] 
+                      for t in resp['results'] if t['geo'] ])
+users = [ t['from_user'] for t in resp['results'] if t['geo'] ]
+
+X, Y = np.mgrid[-180:180:100j, -90:90:100j]
+positions = np.c_[X.ravel(), Y.ravel()]
+kernel = scipy.stats.kde.gaussian_kde(coords.T) 
+Z = np.reshape(kernel(positions.T), X.shape)
+
+plt.figure(), plt.hold(True)
+plt.imshow(np.rot90(Z), cmap=cm.hot, extent=(-180, 180, -90, 90))
+for user, c in zip(users, coords): 
+   plt.plot(c[0], c[1], 'ko', markeredgewidth=3, markersize=20,
+                              markeredgecolor=(0.3, 0.3, 0.3))
+   dummy = plt.text(c[0], c[1], user, color=(.1, .7, 0.1),
+             horizontalalignment='center', verticalalignment='center')
+
+plt.axis((-180, 180, -90, 90)); plt.grid(color=(0.5, 0.5, 0.5))
+plt.xlabel('Longitude'); plt.ylabel('Latitude') 
+plt.show()
